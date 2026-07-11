@@ -1,13 +1,11 @@
 import pyautogui
 import time
-    4   74.0    15.5    nan 
-    Xiaomi  Relogio 6   114.0   23.9    nan 
-
+   
 time.sleep(3)
 print(pyautogui.position())
 
 # 1 - seleciona tudo que vc quer colocr o # na frente
-# 2 pressine as teclas "Ctrl + ;" - pronto ele adiciona e retirar o #
+# 2 pressine as teclas (Ctrl + /) - pronto ele adiciona e retirar o #
 
 #   codigo       marca        tipo  categoria  preco_unitario  custo               obs
 # 0    MOLO000251    Logitech       Mouse          1           25.95    6.5               NaN
