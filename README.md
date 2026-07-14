@@ -19,7 +19,7 @@ Empresas que precisam cadastrar grandes volumes de produtos manualmente perdem t
 5. 🔁 Repete o processo automaticamente para os produtos da planilha
 6. 🛑 Pode ser interrompido a qualquer momento apertando a tecla **ESC**
 
-![Demonstração](./img/gif_automacao_cadastro_produto.gif)
+![Demonstração](./Assets/gif_automacao_cadastro_produto.gif)
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas
 
